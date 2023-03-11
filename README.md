@@ -16,7 +16,12 @@ A GPIO pin designated as an output pin can be set to high (3.3V) or low (0V). Co
 
 # Initial-Setup
 Flash the operating system version required on the SD (Memory) Card being used for the raspberry pi using the Raspberry Pi Imager. Download the imager onto your laptop using the link : https://www.raspberrypi.com/software/ <br/>
+<br/> 
+For selecting a GUI version, we use Raspberry Pi OS (Legacy) <br/>
+<br/>
 ![Screenshot (41)](https://user-images.githubusercontent.com/113916366/224481661-8ae9509d-e537-45bc-b7fd-b41321659327.png)
+<br/>
+
 
 
 
