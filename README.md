@@ -5,7 +5,7 @@ Version : Raspberry Pi 3B+
 Datasheet for reference: 
 https://static.raspberrypi.org/files/product-briefs/Raspberry-Pi-Model-Bplus-Product-Brief.pdf
 
-PROCESSOR CONFIGURATION : Broadcom BCM2837B0, Cortex-A53 64-bit SoC @ 1.4GHz
+PROCESSOR CONFIGURATION : Broadcom BCM2837B0, Cortex-A53 64-bit SoC @ 1.4GHz <br/>
 MEMORY: 1GB LPDDR2 SDRAM
 INPUT POWER VOLTAGE : 5V/2.5A DC via micro USB connector
                       5V DC via GPIO header
